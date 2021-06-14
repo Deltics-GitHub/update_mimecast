@@ -1,1 +1,1 @@
-0 4 * * * /opt/update_mimecast_zorgdomains/update_mimecast_zorgdomains.py -c /opt/update_mimecast_zorgdomains/tmz.conf
+0 4 * * * /opt/update_mimecast_zorgdomains/update_mimecast_zorgdomains.py -c /opt/update_mimecast_zorgdomains/dummy.conf
