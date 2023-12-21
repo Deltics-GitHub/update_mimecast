@@ -1,3 +1,4 @@
+[DEPRECATED] Please use the new Mimecast API 2.0 version https://github.com/Deltics-GitHub/Zorgmail-Mimecast-Sync
 # update_mimecast
 
 This is a script used for updating the Mimecast profile group with the latest Zorgmail domainbook.
